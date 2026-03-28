@@ -1,10 +1,4 @@
 # 🏥 Hospital Emergency Room Data Analysis
-
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
-![Status](https://img.shields.io/badge/Status-Completed-green)
-
 ---
 
 ## 📌 Project Overview
@@ -115,12 +109,13 @@ hospital management.
 ```
 Hospital-ER-Analysis/
 │
-├── 📓 Hospital_ER_Analysis.ipynb   # Jupyter Notebook
-├── 📊 Hospital_ER_Dashboard.pbix   # Power BI Dashboard
-├── 📄 Hospital_ER_Report.pdf       # Full Analysis Report
+├── 📓 Hospital ER Analysis .ipynb   # Jupyter Notebook
+├── 📊 Hospital Emergency Room Dashboard.pbix  # Power BI Dashboard
+├── 📄 Hospital ER Analysis Report1.0.pdf      # Full Analysis Report
 ├── 📂 data/
-│   └── hospital_er_data.csv        # Raw Dataset
+│   └── Hospital ER_Data.csv        # Raw Dataset
 └── 📄 README.md                    # Project Documentation
+├── 📓 hospital_er_analysis_sql.sql1.0.sql # SQL Query
 ```
 
 ---
